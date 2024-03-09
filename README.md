@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...web developement
 - 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...work on javascript
-- 📫 How to reach me ...rizwanshahed232@gmail.com
+- 📫 How to reach me ...rizwanshahid232@gmail.com
 
 <!---
 reezouaanshahid/reezouaanshahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
