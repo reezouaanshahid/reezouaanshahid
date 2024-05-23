@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @reezouaanshahid
-- 👀 I’m interested in ...web developement
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...work on javascript
-- 📫 How to reach me ...rizwanshahid232@gmail.com
-
-<!---
-reezouaanshahid/reezouaanshahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there                                                                                                                                                                      I am an expert front-end web developer with over 2 years of experience in creating high-quality, responsive websites. I have completed 20+ projects, specializing in PSD to HTML, XD to HTML, Sketch to HTML conversions, and HTML email templates. My skill set includes proficiency in HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, and creating responsive designs. I am passionate about web development and consistently deliver exceptional results.
